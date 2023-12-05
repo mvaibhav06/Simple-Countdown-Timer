@@ -50,6 +50,7 @@ function App() {
 
   return (
     <div className="text-center">
+      <h3 className="my-5">Choose a future date to start the countdown.</h3>
       <input
         value={input}
         onChange={handleChange}
