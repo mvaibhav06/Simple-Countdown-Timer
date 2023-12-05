@@ -1,0 +1,26 @@
+.form-control {
+  width: 14%;
+  position: relative;
+  left: 43%;
+}
+
+body {
+  background-color: #1fc69d;
+}
+
+.over-line {
+  text-decoration: overline;
+  font-size: 1.5rem;
+}
+
+h4 {
+  padding-bottom: 20px;
+  font-size: 2rem;
+}
+
+.output {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  padding-top: 20px;
+}
